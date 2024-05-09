@@ -9,7 +9,7 @@ FizzBuzz is a classic programming exercise often used in interviews. The rules a
 
 ## How to Play
 To play FizzBuzz:
-1. Run the Python script provided in this repository.
+1. Run the Python script provided in this repository. You are P1.
 2. Follow the prompts to input your choice for each number.
 3. If your number is divisible by 3, type "Fizz". If it's divisible by 5, type "Buzz". If it's divisible by both 3 and 5, type "FizzBuzz".
 4. The game will automatically determine if your choice matches the FizzBuzz rules and provide feedback accordingly.

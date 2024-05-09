@@ -43,5 +43,6 @@ while True:
                 p1_choice = "Buzz"
             elif p1_choice == -30:    
                 p1_choice = "FizzBuzz"
-            print(f"Game is Over!\nP1 said: {p1_choice} but current level must say Fizz, Buzz or FizzBuzz")    
+            print(f"Game is Over!\nP1 said: {p1_choice} but current level must say Fizz, Buzz or FizzBuzz") 
+            break   
  
